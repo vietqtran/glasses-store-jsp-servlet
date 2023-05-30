@@ -1,0 +1,32 @@
+.imgProduct{
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+.quantity{
+    border-radius: 50%;
+    color: #fff;
+    top: -5px;
+    right: -5px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #342344;
+}
+label{
+    margin-bottom: 5px;
+}
+.fn{
+    margin-right: 5px;
+}
+.ln{
+    margin-left: 5px;
+}
+input{
+    outline: none;
+}
+label span{
+    color: red;
+}

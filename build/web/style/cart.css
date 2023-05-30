@@ -1,0 +1,13 @@
+.quantity{
+    width: fit-content;
+}
+.quantity button:hover{
+    background-color: #d9dada;
+}
+.actionQuantity{
+    height: fit-content;
+}
+
+#cart-container{
+    min-height: 75vh;
+}
